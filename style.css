@@ -1,0 +1,49 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1489240312/pt/foto/green-rustic-texture-high-quality-texture-in-extremely-high-resolution-dark-green-grunge.jpg?s=612x612&w=0&k=20&c=sUnJ7wO-eg5itfSVOXKliToz7R1ZDDKAGQKrqu-8FGY=);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#div-escolher{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+
+ul{
+    list-style: none;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 25% 25% 25%;
+    gap: 2%;
+
+}
+
+li{
+    
+    border: 2px solid yellow;
+    border-radius: 5%;
+    padding: 5%;
+    background-color: black;
+
+}
+
+img{
+    width: 100%;
+    border-radius: 3%;
+}
+
+#h3{
+    color: yellowgreen;
+}
+
+#h2{
+    color: yellowgreen;
+}
+
+
+
+
+
+
+
